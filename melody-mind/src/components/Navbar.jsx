@@ -1,12 +1,11 @@
 import React from 'react'
 import './styles/Navbar.css'
-import { Meteors } from "./ui/meteors"; 
 
 const Navbar = () => {
   return (
     <>
       <nav>
-        <div class="logo">Melody Mind</div>
+        <div class="logo">MelodyMind</div>
         <div>
           <ul class="nav-links">
             <li><a href="#projects">Sign Up</a></li>
@@ -14,7 +13,6 @@ const Navbar = () => {
           </ul>
         </div>
       </nav>
-      
     </>
   )
 }

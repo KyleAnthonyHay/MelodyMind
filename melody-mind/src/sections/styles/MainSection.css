@@ -1,0 +1,5 @@
+.main-section {
+    background-color: black;
+    /* take up remainding space of the page without scrolling*/
+    height: 90vh;
+}

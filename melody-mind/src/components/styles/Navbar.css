@@ -28,7 +28,7 @@ a:hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(12, 201, 230);
 }
 
 .logo {
@@ -38,4 +38,5 @@ a:hover {
 
 .logo:hover {
   cursor: default;
+  color: rgb(12, 201, 230);
 }
