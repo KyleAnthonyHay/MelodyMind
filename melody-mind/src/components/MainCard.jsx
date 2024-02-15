@@ -8,13 +8,13 @@ const MainCard = () => {
   return (
     <>
         {/* center div on the y-axis */}
-        <div className="flex justify-center items-center h-full">
+        <div className="flex justify-center items-center h-screen pb-52">
             <BackgroundGradient className="rounded-[22px] min-w-full p-4 sm:p-10 bg-white dark:bg-zinc-900 items-center flex flex-col">
-            <p className="text-base sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200">
+            <p className="text-base sm:text-5xl text-black mt-4 mb-2 dark:text-neutral-200 pb-10">
                 Create Midi/Audio Files Powered by AI
             </p>
 
-            <p className="text-sm text-neutral-600 dark:text-neutral-400">
+            <p className="text-sm text-neutral-600 dark:text-neutral-400 pb-10">
                 Insert Buttons Here
             </p>
             <button className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
