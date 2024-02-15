@@ -9,6 +9,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 10vh;
+  /* background-color: aliceblue; Remove this line */
 }
 
 .nav-links {
@@ -38,5 +39,4 @@ a:hover {
 
 .logo:hover {
   cursor: default;
-  color: rgb(12, 201, 230);
 }

@@ -15,7 +15,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
   color: rgba(255, 255, 255, 0.87);
-  color-scheme: light dark;
+  color-scheme: light dark; /* This Line determines base BG Color
   /* background-color: #191919; */
-  background-color: black;
+  /* background-color: black; */
 }
